@@ -68,4 +68,4 @@ Test that the configuration is saved and available for `cron` to pickup.
 crontab -l # Should show the entries added previously
 ```
 
-If everything is OK, you should find a backup archive created in the configured folder. User OneDrive to save it on the cloud.
+If everything is OK, you should find a backup archive created in the configured folder. Use OneDrive/GoogleDrive/Dropbox to save it on the cloud.
