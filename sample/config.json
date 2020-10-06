@@ -1,0 +1,10 @@
+{
+    "archive_type": "bz2",
+    "archive_prefix": "ubuntu_backup",
+    "archive_destination": "/home/user/backups/",
+    "items": [
+        "/home/user/Documents",
+        "/home/user/Desktop",
+        "/home/user/Pictures"
+    ]
+}
